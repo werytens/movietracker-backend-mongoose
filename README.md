@@ -27,5 +27,5 @@ API_KINOPOISK_KEY =
 
 ## Project start
 ```
-npm run serve
+npm run start:dev
 ```
